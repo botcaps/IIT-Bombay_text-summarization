@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: text_summarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/botcaps/Text-summarisation
+Author: botcaps
+Author-email: abhishek.7979883@gmail.com
+Project-URL: Bug Tracker, https://github.com/botcaps/Text-summarisation/issues
+Description-Content-Type: text/markdown
+Requires-Dist: transformers
+Requires-Dist: transformers[sentencepiece]
+Requires-Dist: datasets
+Requires-Dist: sacrebleu
+Requires-Dist: rouge_score
+Requires-Dist: py7zr
+Requires-Dist: pandas
+Requires-Dist: nltk
+Requires-Dist: tqdm
+Requires-Dist: PyYAML
+Requires-Dist: matplotlib
+Requires-Dist: torch
+Requires-Dist: notebook
+Requires-Dist: boto3
+Requires-Dist: mypy-boto3-s3
+Requires-Dist: python-box==6.0.2
+Requires-Dist: ensure==1.0.2
+Requires-Dist: fastapi==0.78.0
+Requires-Dist: uvicorn==0.18.3
+Requires-Dist: Jinja2==3.1.2
+
+this is me
